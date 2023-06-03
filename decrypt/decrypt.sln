@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decrypt", "decrypt.vcxproj", "{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Debug|x64.ActiveCfg = Debug|x64
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Debug|x64.Build.0 = Debug|x64
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Debug|x86.Build.0 = Debug|Win32
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Release|x64.ActiveCfg = Release|x64
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Release|x64.Build.0 = Release|x64
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Release|x86.ActiveCfg = Release|Win32
+		{DA801FC7-91A3-40C0-8A8A-0B7DEFD13563}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A8C6F5-2EB4-47CC-868E-D42B08C34F90}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+C:\test\decrypt\x64\Release\decrypt.exe
